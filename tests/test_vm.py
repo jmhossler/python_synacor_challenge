@@ -1,0 +1,1 @@
+from synacorvm import VirtualMachine
