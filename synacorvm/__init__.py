@@ -1,1 +1,1 @@
-from virtual_machine import VirtualMachine
+from program import SynacorProgram
